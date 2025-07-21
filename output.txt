@@ -1,0 +1,20 @@
+🧠 Welcome to the Mental Health Support Chatbot.
+Type 'exit' to leave the chat.
+
+You: hi
+Bot: Hello! I'm here for you. How’s your day going?
+
+You: I'm feeling sad
+Bot: I'm sorry you're feeling this way. Want to talk more about it?
+
+You: I don't know, just feeling down lately
+Bot: It's okay to feel sad. You're not alone. I'm here for you.
+
+You: Also a bit anxious about work
+Bot: It’s okay to feel anxious sometimes. Would you like to talk about what’s making you feel this way?
+
+You: thank you
+Bot: You're very welcome. I'm always here to listen. 💙
+
+You: bye
+Bot: Take care of yourself. You're stronger than you think. Goodbye! 💚
